@@ -59,7 +59,10 @@ Using streamlit module, create interactive page with
 
 Use pickle module to dump and load models such as encoder(onehot/ label/ str.cat.codes /etc), scaling models(standard scaler), ML models.
 
+MODEL GUI:
+
 ![CPR_SP](https://github.com/user-attachments/assets/d900cfff-8b59-4f65-8992-a81ad648e2d0)
+
 
 ![CPR_STATUS](https://github.com/user-attachments/assets/87423ca1-19a0-4a6e-8340-e73f15db58a1)
 
