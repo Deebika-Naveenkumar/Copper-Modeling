@@ -1,4 +1,6 @@
-Ins=dustrial Copper Modeling
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7230087087771807744/
+
+Industrial Copper Modeling
 
 Problem Statement:
 The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions.
@@ -56,3 +58,9 @@ Using streamlit module, create interactive page with
 7) Pickling:
 
 Use pickle module to dump and load models such as encoder(onehot/ label/ str.cat.codes /etc), scaling models(standard scaler), ML models.
+
+![CPR_SP](https://github.com/user-attachments/assets/d900cfff-8b59-4f65-8992-a81ad648e2d0)
+
+![CPR_STATUS](https://github.com/user-attachments/assets/87423ca1-19a0-4a6e-8340-e73f15db58a1)
+
+
