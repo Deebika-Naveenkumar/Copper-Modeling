@@ -37,7 +37,7 @@ Engineer new features if applicable, such as aggregating or transforming existin
 
 Split the dataset into training and testing/validation sets.
 
-Train and evaluate different classification models, such as ExtraTreesClassifier, XGBClassifier, or Logistic Regression, using appropriate evaluation metrics such as accuracy, precision, recall, F1 score, and AUC curve.
+Train and evaluate different classification models, such as ExtraTreesClassifier, XGBClassifier, or Logistic Regression, using appropriate evaluation metrics such as accuracy, precision, recall, F1 score.
 
 Optimize model hyperparameters using techniques such as cross-validation and grid search to find the best-performing model.
 
